@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&family=Rowdies&display=swap');
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    color: white;
+    
+}
+
+.card1{
+    margin: 15px;
+    background-color: #DE3151;
+    border-radius: 15px;
+    
+}
+
+.card2{
+    margin: 15px;
+    background-color: rgb(188, 26, 110);
+    border-radius: 15px;
+}
+
+.card3{
+    margin:15px;
+    background-color: #D93B30;
+    border-radius: 15px;
+}
+
+.card4{
+    margin: 15px;
+    background-color: #CC2D4A;
+    border-radius: 15px;
+}
+
+.place-img{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.p-12{
+    padding: 12px;
+}
